@@ -38,6 +38,10 @@ The water blocks are solid and can spread.
   </a>
 </p>
 
+## Annotations
+
+![Preview](./samples/testcraft.png)
+
 ## Screenshots
 
 ![Preview](./samples/Screenshot_2.png)
@@ -49,3 +53,5 @@ The water blocks are solid and can spread.
 ![Preview](./samples/Screenshot_5.png)
 
 ![Preview](./samples/Screenshot_6.png)
+
+end.
